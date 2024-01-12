@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_sub_heading_sub_headings",
+  "info": {
+    "displayName": "sub_heading"
+  },
+  "options": {},
+  "attributes": {
+    "sub_heading": {
+      "type": "string",
+      "required": false
+    }
+  }
+}

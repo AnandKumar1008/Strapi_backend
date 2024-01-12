@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_blog_table_tables",
+  "info": {
+    "displayName": "Table",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "tableTitle": {
+      "type": "string"
+    }
+  }
+}

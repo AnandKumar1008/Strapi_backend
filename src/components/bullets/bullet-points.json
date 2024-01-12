@@ -1,0 +1,30 @@
+{
+  "collectionName": "components_bullets_bullet_points",
+  "info": {
+    "displayName": "BulletPoints",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "boldText": {
+      "type": "string"
+    },
+    "text": {
+      "type": "blocks"
+    },
+    "RelatedMedia": {
+      "type": "media",
+      "multiple": true,
+      "required": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    },
+    "media_url": {
+      "type": "string"
+    }
+  }
+}
